@@ -7,6 +7,7 @@ The fans are turned of a few sec before each turn to avoid a "breathe sound" in 
 (aprox 0.5 milion turns/year, SSR will handle this)
 
 inputs/ modes
+
 "fireplace" mode : 
 meaning it runs the in-fan on one higher speed than the out fan
 to create overpressure / adding air into the house for compensating for the lost air going out of the chimney (when 
