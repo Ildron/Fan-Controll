@@ -17,6 +17,7 @@ fire in the fireplace)
 
 
 The resaon for choosing to use 2 x solid states relays in serie for turning on/off fans :
+
 precations when using SSR & Capacitive Load:
 The supply voltage plus the charge voltage of the capacitor is
 applied to both ends of the SSR when it is OFF. Therefore,
